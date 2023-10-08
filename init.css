@@ -1,0 +1,89 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("Init_background.png");
+    /*background-color:#040c3d;*/
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #434271;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding:10px;
+    color:white
+}
+
+nav li {
+    text-decoration: none;
+    display: inline;
+    margin-right: 20px;
+    color:white
+    
+}
+.navbar{
+    text-decoration: none;
+    color:white
+}
+
+main {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background-color:#23313d;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border:100px;
+    border-color:#1c0d0d ;
+}
+
+article {
+    height: 500px;
+}
+
+h1 {
+    text-align:center;
+    font-size: 24px;
+    color:white;
+}
+a{
+    color:white;
+    text-decoration: none;
+    padding:2%;
+    padding-bottom: 10px;;
+}
+.content {
+    margin-top: 10px;
+    color:white;
+    padding:5%;
+}
+.title {
+    padding: 2%;
+    height: 60px;
+    background-color:#545363;;
+}
+p{
+    color:white;
+    font-size: large;
+    font-family: Arial, sans-serif;
+}
+.end {
+    margin-bottom: 30px;
+    padding:10px;
+}
+.image{
+    width:500px;
+    height:200px;
+}
+.clubimg{
+    border-radius:50%;
+    height:50px;
+    width:50px;
+}
+/* Add more CSS styles for responsiveness */
