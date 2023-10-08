@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("Init_background.png");
+    /*background-color:#040c3d;*/
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #434271;
+    color: white;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding:10px;
+    color:white
+}
+
+nav li {
+    text-decoration: none;
+    display: inline;
+    margin-right: 20px;
+    color:white
+    
+}
+.navbar{
+    text-decoration: none;
+    color:white
+}
+.Contactus{
+    margin-left: 40%;
+    height:300px;
+    width:20%;
+}
+h1{
+    color:white;
+    text-align: center;
+}
+p{
+    font-size: large;
+    color:white;
+    text-align: center;
+}
+.clubimg{
+    border-radius:50%;
+    height:50px;
+    width:50px;
+}
+.image{
+    border-radius: 50%;
+    height:10%;
+    width:10%;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+a{
+    color:white;
+    text-decoration: none;
+    padding:2%;
+    padding-bottom: 10px;;
+}
+
